@@ -1,13 +1,10 @@
-✨ GitHub Bio for M Srija
-
-
 ## 👋 Hi, I'm M Srija
 
 I'm an aspiring Machine Learning Engineer with a passion for using data to solve real-world problems. I hold a B.Tech in Electrical and Electronics Engineering with a minor in Artificial Intelligence & Machine Learning, and I'm currently pursuing another minor in AI from IIT Ropar.
 
 ### 💡 What I Do
 
-- 🧠 I build ML models to detect hate speech, spam messages, and financial fraud.
+- 🧠 I build ML models to solve real_world problems.
 - 🔍 I explore data with Python, Pandas, Matplotlib, and Scikit-learn.
 - 🧪 I love experimenting with new algorithms and improving model accuracy through clean data and cross-validation.
 
