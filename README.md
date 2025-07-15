@@ -1,10 +1,6 @@
-Thanks for sharing your resume, Chitti 🌸! Based on your **skills, projects, internships, and goals**, here’s a **professional, human-sounding GitHub bio** you can put at the top of your GitHub profile (via a special repo named `srijamudimadugula`):
+✨ GitHub Bio for M Srija
 
----
 
-## ✨ GitHub Bio for M Srija
-
-```markdown
 ## 👋 Hi, I'm M Srija
 
 I'm an aspiring Machine Learning Engineer with a passion for using data to solve real-world problems. I hold a B.Tech in Electrical and Electronics Engineering with a minor in Artificial Intelligence & Machine Learning, and I'm currently pursuing another minor in AI from IIT Ropar.
