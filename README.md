@@ -34,7 +34,7 @@ I'm an aspiring Machine Learning Engineer with a passion for using data to solve
 
 ### 🌱 My Mission
 
-To build data-driven tools that make a positive impact on society — especially in areas like financial inclusion, education, and public safety.
+To build data-driven tools that make a positive impact on society especially in areas like financial inclusion, education, and public safety.
 
 ---
 
