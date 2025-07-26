@@ -29,7 +29,7 @@ I'm an aspiring Machine Learning Engineer with a passion for using data to solve
 ### 🎯 Currently Learning
 
 - Advanced Machine Learning Techniques  
-- Deep Learning Architectures (CNNs, LSTMs)  
+- Deep Learning Architectures (CNNs, RNN, LSTMs)  
 - Real-world deployment with Streamlit and Flask
 
 ### 🌱 My Mission
